@@ -3,6 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-6/442408737_1453292888893412_379353616992633115_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeERLrAzrS4FatK_hKVvQB_a9gkjxAg7wBb2CSPECDvAFiCG0h-b7HG8va3aUoBUORuruFQ2OTH65PbhsNnp5_5l&_nc_ohc=HvpG4SDwhHsQ7kNvgExZ3jL&_nc_ht=scontent.fhan2-3.fna&oh=00_AYBAcmXgnm9N_cSaKVFqPDGolbI6e40A1DNZ5Yj8DM5tvw&oe=66576699">
 
 - 🔭 I'm a student majoring in **Data Science**
+- 👯 I’m looking to collaborate on **Python**
+- 🤝 I’m looking for help with **NLP**
+- 📫 How to reach me **pcq12c8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
