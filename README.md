@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phạm Cường Quốc</h1>
 <h3 align="center">✍ I'm a student of: Hanoi University of Mining and Geology (HUMG)</h3>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I'm a student majoring in **Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
