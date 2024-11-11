@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Phạm Cường Quốc</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=OpenSans&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phạm+Cường+Quốc!;" />
+</h1>
 <h3 align="center">✍ I'm a student of: Hanoi University of Mining and Geology (HUMG)</h3>
 <img align="right" alt="Coding" width="400" src="https://scontent.fhan2-5.fna.fbcdn.net/v/t39.30808-6/452754300_1492778151611552_6857823965683034121_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=arLKDNsMmzcQ7kNvgEE_VXA&_nc_zt=23&_nc_ht=scontent.fhan2-5.fna&_nc_gid=Ay6W5AWv-OxZTsy4plhb1o2&oh=00_AYAac9wSZ_tPVoF9hVr7YG10mazXbLrse_OtHPzjvr0D4g&oe=673809E9">
 
@@ -16,4 +18,24 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+</p>
+
+<hr>
+
+<div style="clear: both;">
+  <h2 align="center">🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+<hr/>
