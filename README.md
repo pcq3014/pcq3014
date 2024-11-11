@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phạm Cường Quốc</h1>
 <h3 align="center">✍ I'm a student of: Hanoi University of Mining and Geology (HUMG)</h3>
-<img align="right" alt="Coding" width="400" src="https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-6/442408737_1453292888893412_379353616992633115_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeERLrAzrS4FatK_hKVvQB_a9gkjxAg7wBb2CSPECDvAFiCG0h-b7HG8va3aUoBUORuruFQ2OTH65PbhsNnp5_5l&_nc_ohc=HvpG4SDwhHsQ7kNvgExZ3jL&_nc_ht=scontent.fhan2-3.fna&oh=00_AYBAcmXgnm9N_cSaKVFqPDGolbI6e40A1DNZ5Yj8DM5tvw&oe=66576699">
+<img align="right" alt="Coding" width="400" src="https://scontent.fhan2-5.fna.fbcdn.net/v/t39.30808-6/452754300_1492778151611552_6857823965683034121_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=arLKDNsMmzcQ7kNvgEE_VXA&_nc_zt=23&_nc_ht=scontent.fhan2-5.fna&_nc_gid=Ay6W5AWv-OxZTsy4plhb1o2&oh=00_AYAac9wSZ_tPVoF9hVr7YG10mazXbLrse_OtHPzjvr0D4g&oe=673809E9">
 
 - 🔭 I'm a student majoring in **Data Science**
 - 👯 I’m looking to collaborate on **Python**
