@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=OpenSans&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phạm+Cường+Quốc!;" />
 </h1>
 <h3 align="center">✍ I'm a student of: Hanoi University of Mining and Geology (HUMG)</h3>
-<img align="right" alt="Coding" width="400" src="https://scontent.fhan2-5.fna.fbcdn.net/v/t39.30808-6/452754300_1492778151611552_6857823965683034121_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=arLKDNsMmzcQ7kNvgEE_VXA&_nc_zt=23&_nc_ht=scontent.fhan2-5.fna&_nc_gid=Ay6W5AWv-OxZTsy4plhb1o2&oh=00_AYAac9wSZ_tPVoF9hVr7YG10mazXbLrse_OtHPzjvr0D4g&oe=673809E9">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🔭 I'm a student majoring in **Data Science**
 - 👯 I’m looking to collaborate on **Python** & **HTML**
