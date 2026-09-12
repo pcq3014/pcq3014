@@ -1,9 +1,3 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  LƯU Ý: thay TẤT CẢ chữ "pcq301" bằng đúng GitHub username   ║
-  ║  của bạn (ở link stats và link con rắn).                     ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
 
 <div align="center">
 
@@ -26,7 +20,6 @@
 - 🎓 Sinh viên chuyên ngành **Data Science** — Hanoi University of Mining and Geology *(HUMG)*
 - 🚀 Đang theo học chương trình **AI thực chiến** tại **VinUni**
 - 👁️ Quan tâm nhất tới **Computer Vision** — object detection, tracking, video analytics
-- 🔬 Đồ án tốt nghiệp: **phát hiện vi phạm vượt đèn đỏ** bằng thị giác máy tính
 - 🌱 Đang học thêm: **NLP**, **PyTorch**, **JavaScript**
 - 👯 Muốn cộng tác các dự án về **Python** & **Computer Vision**
 - 📫 Liên hệ: **pcq12c8@gmail.com**
