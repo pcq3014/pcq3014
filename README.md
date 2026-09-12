@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=620&height=70&lines=Hi+there!+I'm+Ph%E1%BA%A1m+C%C6%B0%E1%BB%9Dng+Qu%E1%BB%91c+%F0%9F%91%8B;Data+Science+%7C+Computer+Vision;Turning+pixels+into+decisions." alt="Typing SVG" />
@@ -71,37 +70,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Projects
 
-<div align="center">
+<!--
+  Điền 3-5 dòng dự án thật của bạn. Mỗi dòng: tên + link repo,
+  mô tả một câu, tech dùng, và kết quả đo được nếu có (mAP, accuracy, FPS...).
+  Xoá các dòng mẫu bên dưới sau khi điền.
+-->
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pcq3014&theme=transparent" />
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pcq3014&theme=transparent" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pcq3014&theme=transparent" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=pcq3014&hide_border=true&background=00000000&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6" height="150" />
-
-</div>
-
----
-
-### 🐍 My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/pcq3014/pcq3014/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/pcq3014/pcq3014/output/github-snake.svg" />
-  <img alt="snake eating my contributions"
-       src="https://raw.githubusercontent.com/pcq3014/pcq3014/output/github-snake.svg" />
-</picture>
-
-</div>
+| Project | Mô tả | Tech |
+| --- | --- | --- |
+| **[Tên dự án 1](https://github.com/pcq3014/ten-repo)** | Một câu nói rõ bài toán và kết quả | `Python` `OpenCV` `YOLO` |
+| **[Tên dự án 2](https://github.com/pcq3014/ten-repo)** | Một câu nói rõ bài toán và kết quả | `Python` `PyTorch` |
+| **[Tên dự án 3](https://github.com/pcq3014/ten-repo)** | Một câu nói rõ bài toán và kết quả | `Pandas` `scikit-learn` |
 
 ---
 
@@ -117,6 +98,34 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=pcq301&style=flat-square&color=8B5CF6&label=Profile+views" />
+<img src="https://komarev.com/ghpvc/?username=pcq3014&style=flat-square&color=8B5CF6&label=Profile+views" />
 
 </div>
+
+<!--
+  ══════════════════════════════════════════════════════════════
+  KHỐI STATS + SNAKE — thêm lại khi account đã có repo và commit.
+  Lúc này dữ liệu còn trống nên vẽ ra sẽ rỗng, đừng bật sớm.
+  Username đã sửa đúng thành pcq3014.
+  ══════════════════════════════════════════════════════════════
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pcq3014&theme=transparent" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pcq3014&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=pcq3014&hide_border=true&background=00000000&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6" height="150" />
+</div>
+
+### 🐍 My Contributions
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/pcq3014/pcq3014/output/github-snake-dark.svg" />
+  <img alt="snake eating my contributions"
+       src="https://raw.githubusercontent.com/pcq3014/pcq3014/output/github-snake.svg" />
+</picture>
+</div>
+
+-->
