@@ -75,8 +75,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pcq301&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=6B7280&bg_color=00000000&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcq301&layout=compact&hide_border=true&title_color=8B5CF6&text_color=6B7280&bg_color=00000000&langs_count=8" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pcq301&theme=transparent" />
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pcq301&theme=transparent" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pcq301&theme=transparent" />
 
 <br>
 
