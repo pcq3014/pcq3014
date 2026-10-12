@@ -57,9 +57,7 @@ A web application that helps groups plan itineraries, discover destinations, and
 
 **Tech:** JavaScript · Gemini · Upstash Redis · Leaflet/MapLibre
 
-<a href="https://trippaltravel.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="TripPal Live Demo">
-</a>
+*Ongoing development.*
 </td>
 <td width="50%" valign="top">
 
