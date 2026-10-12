@@ -169,27 +169,6 @@ An ongoing project exploring computer vision techniques for detecting red-light 
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab">
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pcq3014&theme=transparent" alt="GitHub Profile Summary">
-
-<br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pcq3014&theme=transparent" alt="GitHub Stats">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pcq3014&theme=transparent&utcOffset=7" alt="Productive Time">
-
-<br>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=pcq3014&hide_border=true&background=00000000&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6" alt="GitHub Streak">
-
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
