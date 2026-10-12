@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Pham+Cuong+Quoc+%F0%9F%91%8B;AI+Application+Engineering;Computer+Vision+%7C+LLM+%7C+AI+Agents;Building+AI+that+solves+real+problems." alt="Typing SVG" />
@@ -239,4 +238,3 @@ An ongoing project exploring computer vision techniques for detecting red-light 
 <img src="https://komarev.com/ghpvc/?username=pcq3014&style=flat-square&color=8B5CF6&label=Profile+views" alt="Profile Views">
 
 </div>
-```
