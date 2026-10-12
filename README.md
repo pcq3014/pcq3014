@@ -1,123 +1,242 @@
+```markdown
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=620&height=70&lines=Hi+there!+I'm+Ph%E1%BA%A1m+C%C6%B0%E1%BB%9Dng+Qu%E1%BB%91c+%F0%9F%91%8B;Data+Science+%7C+Computer+Vision;Turning+pixels+into+decisions." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Pham+Cuong+Quoc+%F0%9F%91%8B;AI+Application+Engineering;Computer+Vision+%7C+LLM+%7C+AI+Agents;Building+AI+that+solves+real+problems." alt="Typing SVG" />
 
-<br>
+<p>
+  <b>Data Science Student @ HUMG</b><br>
+  AI Application Engineering · Computer Vision · Applied AI
+</p>
 
-![Data Science](https://img.shields.io/badge/Data_Science-8B5CF6?style=for-the-badge&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-6D28D9?style=for-the-badge&logo=opencv&logoColor=white)
-![HUMG](https://img.shields.io/badge/HUMG-Student-4C1D95?style=for-the-badge)
+<a href="https://github.com/pcq3014">
+  <img src="https://img.shields.io/badge/GitHub-pcq3014-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/cuong-quoc-pham-348ab4345/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:pcq12c8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 </div>
 
 ---
 
-### 🧑‍💻 Về tôi
+## 👋 About Me
 
-<img align="right" width="330" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding" />
+I'm a final-year **Data Science student at Hanoi University of Mining and Geology (HUMG)**, interested in building practical AI applications and intelligent systems.
 
-- 🎓 Sinh viên chuyên ngành **Data Science** — Hanoi University of Mining and Geology *(HUMG)*
-- 🚀 Đang theo học chương trình **AI thực chiến** tại **VinUni**
-- 👁️ Quan tâm nhất tới **Computer Vision** — object detection, tracking, video analytics
-- 🌱 Đang học thêm: **NLP**, **PyTorch**, **JavaScript**
-- 👯 Muốn cộng tác các dự án về **Python** & **Computer Vision**
-- 📫 Liên hệ: **pcq12c8@gmail.com**
-- ⚡ Fun fact: *I think I'm funny*
+My interests focus on connecting machine learning models with real-world products — from computer vision and video analytics to LLM-powered applications and AI agents.
 
-<br clear="right"/>
+- 🎓 Studying **Data Science at HUMG**.
+- 🤖 Participating in the **AI Practical Training Program by Vingroup in collaboration with VinUni**.
+- 👁️ Exploring **Computer Vision**, object detection, object tracking, and video analytics.
+- 🧠 Working with **LLMs, RAG, AI agents, and time-series foundation models**.
+- 🛠️ Building applications with Python, JavaScript, React, FastAPI, and LangGraph.
+- 🤝 Open to collaborating on applied AI, computer vision, and AI application projects.
 
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-**Computer Vision & AI**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO_/_Ultralytics-111F68?style=flat-square&logo=yolo&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Data & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tools & Others**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt_Designer-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+> My goal is to turn AI capabilities into useful, reliable, and deployable applications.
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ TripPal
+
+**AI-powered group travel planner**
+
+A web application that helps groups plan itineraries, discover destinations, and coordinate travel plans.
+
+- AI-assisted itinerary generation and editing.
+- Location-aware recommendations using OpenStreetMap data.
+- Interactive maps, budgeting, and group synchronization.
+- Preview, apply, and undo workflow for AI suggestions.
+
+**Tech:** JavaScript · Gemini · Upstash Redis · Leaflet/MapLibre
+
+<a href="https://trippaltravel.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="TripPal Live Demo">
+</a>
+</td>
+<td width="50%" valign="top">
+
+### 📈 LEAF
+
+**Regime-aware ensemble for financial forecasting**
+
+A research project investigating foundation-model ensembles for one-day-ahead return forecasting on VN30 stocks.
+
+- Combines TimesFM, Chronos-2, and Moirai-2.
+- Uses market-regime information to guide model selection.
+- Evaluates predictive performance using IC, RMSE, and MAE.
+- Includes ablation experiments, multi-seed evaluation, and leakage checks.
+
+**Tech:** Python · PyTorch · TimesFM · Chronos-2 · Moirai-2
+
+<a href="https://github.com/pcq3014/fm-finance-forecasting">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="LEAF Source Code">
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏭 FactoryFlow
+
+**AI-assisted production scheduling**
+
+A team project for production planning and recovery from operational disruptions.
+
+- AI-assisted production scheduling and recovery planning.
+- Interactive Kanban board and production-line visualization.
+- Alternative-plan comparison to support operator decisions.
+- Integration of LLM-based agents and constraint optimization.
+
+**Tech:** React · TypeScript · FastAPI · LangGraph · OR-Tools CP-SAT
+
+<a href="https://github.com/AI20K-Build-Phase-Cohort-4/P-022">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="FactoryFlow Source Code">
+</a>
+</td>
+<td width="50%" valign="top">
+
+### 🚦 Traffic Violation Detection
+
+**Computer vision for traffic monitoring**
+
+An ongoing project exploring computer vision techniques for detecting red-light violations from traffic-camera footage.
+
+- Video-based traffic-scene analysis.
+- Object detection and tracking workflows.
+- Vehicle and license-plate analysis.
+- Exploration of YOLO-based detection pipelines.
+
+**Tech:** Python · OpenCV · YOLO
+
+*Ongoing development.*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+
+### AI, Machine Learning & Computer Vision
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white" alt="YOLO">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+</p>
+
+### LLMs & AI Applications
+
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph">
+  <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/AI_Agents-6D28D9?style=flat-square" alt="AI Agents">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square" alt="Prompt Engineering">
+  <img src="https://img.shields.io/badge/TimesFM-4C1D95?style=flat-square" alt="TimesFM">
+  <img src="https://img.shields.io/badge/Chronos--2-4C1D95?style=flat-square" alt="Chronos-2">
+</p>
+
+### Application Development & Data
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab">
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pcq3014&theme=transparent" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pcq3014&theme=transparent" alt="GitHub Profile Summary">
 
 <br>
 
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pcq3014&theme=transparent" />
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pcq3014&theme=transparent&utcOffset=7" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pcq3014&theme=transparent" alt="GitHub Stats">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pcq3014&theme=transparent&utcOffset=7" alt="Productive Time">
 
 <br>
 
-<img height="160" src="https://streak-stats.demolab.com?user=pcq3014&hide_border=true&background=00000000&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6" />
+<img width="65%" src="https://streak-stats.demolab.com?user=pcq3014&hide_border=true&background=00000000&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6" alt="GitHub Streak">
 
 </div>
 
 ---
 
-### 🐍 My Contributions
+## 🐍 Contribution Graph
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/pcq3014/pcq3014/output/github-snake-dark.svg" />
+          srcset="https://raw.githubusercontent.com/pcq3014/pcq3014/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/pcq3014/pcq3014/output/github-snake.svg" />
-  <img alt="snake eating my contributions"
-       src="https://raw.githubusercontent.com/pcq3014/pcq3014/output/github-snake.svg" />
+          srcset="https://raw.githubusercontent.com/pcq3014/pcq3014/output/github-snake.svg">
+  <img alt="GitHub contribution snake"
+       src="https://raw.githubusercontent.com/pcq3014/pcq3014/output/github-snake.svg"
+       width="100%">
 </picture>
 
 </div>
 
 ---
 
-### 🤝 Connect with me
+## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="mailto:pcq12c8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.facebook.com/profile.php?id=100026381437442"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.instagram.com/pcq301"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.youtube.com/@pcq301"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://www.tiktok.com/@pcq301"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="mailto:pcq12c8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/cuong-quoc-pham-348ab4345/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.facebook.com/profile.php?id=100026381437442">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://www.instagram.com/pcq301">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.youtube.com/@pcq301">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+<a href="https://www.tiktok.com/@pcq301">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=pcq3014&style=flat-square&color=8B5CF6&label=Profile+views" />
+<img src="https://komarev.com/ghpvc/?username=pcq3014&style=flat-square&color=8B5CF6&label=Profile+views" alt="Profile Views">
 
 </div>
+```
