@@ -48,23 +48,23 @@ My interests focus on connecting machine learning models with real-world product
 
 **Group trip planner for Vietnam** 🇻🇳
 
-A web app (PWA) for planning and coordinating group trips, and it works offline.
+An installable web app that helps friend groups plan itineraries, navigate, and split costs, and it keeps working offline.
 
 - AI itinerary assistant (Gemini)
+- Hour-by-hour schedule with drag & drop and undo
 - Maps, real routes & motorbike navigation
-- Places from OpenStreetMap
-- Group sync, budget & bill splitting
+- Nearby places from OpenStreetMap
+- Weather, budget & bill splitting
+- Real-time group sync
 
-**Tech:** JavaScript · Gemini · Upstash Redis · Leaflet/MapLibre
+**Tech:** Vanilla JavaScript · Vercel · Gemini · Upstash Redis · Leaflet/MapLibre
 
 <a href="https://trippaltravel.vercel.app">
   <img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" alt="TripPal Live Demo">
 </a>
-<a href="https://github.com/pcq3014/TripPal">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="TripPal Source Code">
-</a>
 
 </td>
+
 
 
 
