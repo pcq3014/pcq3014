@@ -44,7 +44,7 @@ My interests focus on connecting machine learning models with real-world product
 <tr>
 <td width="50%" valign="top">
 
-### ✈️ [TripPal](https://github.com/pcq3014/TripPal)
+### ✈️ TripPal
 
 **Group trip planner for travel across Vietnam** 🇻🇳
 
@@ -60,11 +60,17 @@ An installable web app (PWA) that helps friend groups plan hour-by-hour itinerar
 
 **Tech:** Vanilla JavaScript (no build) · Vercel Functions · Upstash Redis · Gemini · Leaflet / MapLibre · OpenStreetMap · Service Worker
 
-🔗 **Live Demo:** <a href="https://trippaltravel.vercel.app">trippaltravel.vercel.app</a>
+<a href="https://trippaltravel.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" alt="TripPal Live Demo">
+</a>
+<a href="https://github.com/pcq3014/TripPal">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="TripPal Source Code">
+</a>
 
 🚧 *Actively developed*
 
 </td>
+
 
 <td width="50%" valign="top">
 
