@@ -63,9 +63,6 @@ An installable web app (PWA) that helps friend groups plan hour-by-hour itinerar
 <a href="https://trippaltravel.vercel.app">
   <img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" alt="TripPal Live Demo">
 </a>
-<a href="https://github.com/pcq3014/TripPal">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="TripPal Source Code">
-</a>
 
 🚧 *Actively developed*
 
