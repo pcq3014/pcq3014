@@ -44,24 +44,28 @@ My interests focus on connecting machine learning models with real-world product
 <tr>
 <td width="50%" valign="top">
 
-✈️ TripPal
+### ✈️ [TripPal](https://github.com/pcq3014/TripPal)
 
-AI-powered group travel planner
+**Group trip planner for travel across Vietnam** 🇻🇳
 
-A web application that helps groups plan itineraries, discover destinations, and coordinate travel plans.
+An installable web app (PWA) that helps friend groups plan hour-by-hour itineraries, navigate real routes, find nearby places, and split costs. It keeps working offline, even with no signal in the mountains.
 
-* AI-assisted itinerary generation and editing.
-* Location-aware recommendations using OpenStreetMap data.
-* Interactive maps, budgeting, and group synchronization.
-* Preview, apply, and undo workflow for AI suggestions.
+- 🗓️ Hour-by-hour itinerary with drag & drop, conflict/closing-time/rain warnings, Plan B, and undo
+- 🤖 Gemini-powered AI assistant to build and edit schedules
+- 🗺️ Vector, satellite & terrain maps, real routes, and turn-by-turn motorbike navigation
+- 📍 Real places from OpenStreetMap, plus a *"Where to go now?"* pick based on time, location, weather & budget
+- 💸 Weather, group budget, shared fund & bill splitting
+- 👥 Real-time group sync · offline mode · built-in Photobooth
+- 🏔️ Includes a 3-day Sa Pa sample trip, and you can create a new trip for anywhere in Vietnam
 
-Tech: JavaScript · Gemini · Upstash Redis · Leaflet/MapLibre
+**Tech:** Vanilla JavaScript (no build) · Vercel Functions · Upstash Redis · Gemini · Leaflet / MapLibre · OpenStreetMap · Service Worker
 
-Live Demo: trippaltravel.vercel.app
+🔗 **Live Demo:** <a href="https://trippaltravel.vercel.app">trippaltravel.vercel.app</a>
 
-Ongoing development.
+🚧 *Actively developed*
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📈 LEAF
