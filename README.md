@@ -44,20 +44,23 @@ My interests focus on connecting machine learning models with real-world product
 <tr>
 <td width="50%" valign="top">
 
-### ✈️ TripPal
+✈️ TripPal
 
-**AI-powered group travel planner**
+AI-powered group travel planner
 
 A web application that helps groups plan itineraries, discover destinations, and coordinate travel plans.
 
-- AI-assisted itinerary generation and editing.
-- Location-aware recommendations using OpenStreetMap data.
-- Interactive maps, budgeting, and group synchronization.
-- Preview, apply, and undo workflow for AI suggestions.
+* AI-assisted itinerary generation and editing.
+* Location-aware recommendations using OpenStreetMap data.
+* Interactive maps, budgeting, and group synchronization.
+* Preview, apply, and undo workflow for AI suggestions.
 
-**Tech:** JavaScript · Gemini · Upstash Redis · Leaflet/MapLibre
+Tech: JavaScript · Gemini · Upstash Redis · Leaflet/MapLibre
 
-*Ongoing development.*
+Live Demo: trippaltravel.vercel.app
+
+Ongoing development.
+
 </td>
 <td width="50%" valign="top">
 
