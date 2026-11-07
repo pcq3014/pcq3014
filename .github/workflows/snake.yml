@@ -2,13 +2,9 @@
 name: Generate Snake Animation
 
 on:
-  schedule:
-    # Chạy lại mỗi 12 tiếng để ảnh luôn cập nhật
-    - cron: "0 */12 * * *"
-  workflow_dispatch:   # cho phép bấm chạy tay trong tab Actions
-  push:
-    branches:
-      - main           # nếu nhánh chính của bạn là "master" thì sửa lại
+  # Đã tắt chạy tự động (schedule/push) để tiết kiệm phút GitHub Actions.
+  # Muốn cập nhật ảnh: vào tab Actions và bấm "Run workflow".
+  workflow_dispatch:
 
 jobs:
   generate:
